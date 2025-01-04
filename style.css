@@ -35,7 +35,7 @@ div p{
     height: 20px;
 }
 
-#fifth{
+#fifth,li{
     font-size: 30px;
 }
 .yellow{
@@ -43,4 +43,13 @@ div p{
 }
 .bold{
     font-weight: 900;
+}
+input[type="text"]{
+    display: block;
+    margin-bottom: 5px;
+    border: 2px solid red;
+    padding: 10px;
+}
+span{
+    color: whitesmoke;
 }
